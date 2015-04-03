@@ -6,6 +6,7 @@
  * @author  AppThemes
  * @since   ClassiPress 3.3
  */
+ 
 ?>
 
 <div class="content">
@@ -24,7 +25,7 @@
 
 					<div class="post">
 
-						<h1 class="single dotted"><?php _e( 'Order Summary', APP_TD ); ?></h1>
+						<h1 class="single dotted"> <?php _e( 'Order Summary', APP_TD ); ?></h1>
 
 						<div class="order-summary">
 
