@@ -129,7 +129,7 @@ if ( !function_exists( 'themerex_theme_setup' ) ) {
 		// Frontend filters:
 
 		// PRE_QUERY: - add filter to main query
-		add_filter('posts_where', 'themerex_filter_where');  
+		//add_filter('posts_where', 'themerex_filter_where');  
 		// Substitute audio, video and galleries in widget text
 		add_filter( 'widget_text', 'themerex_widget_text_filter' );
 		// Get theme calendar
@@ -880,7 +880,7 @@ if ( !function_exists( 'themerex_filter_where' ) ) {
 		return $where;
 	}  
 }
-
+ 
 // PRE QUERY - posts per page selector
 if ( !function_exists( 'themerex_posts_per_page_selector' ) ) {
 	function themerex_posts_per_page_selector($query) {
@@ -1545,8 +1545,6 @@ if ( !function_exists( 'themerex_callback_ajax_search' ) ) {
 		die();
 	}
 }
-
-
 
 
 /* ========================= Taxonomies cache ============================== */

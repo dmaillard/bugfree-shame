@@ -28,6 +28,7 @@ if ( !function_exists( 'getCategoriesList' ) ) {
 // Return list of post's types
 if ( !function_exists( 'getPostsTypesList' ) ) {
 	function getPostsTypesList($prepend_inherit=false) {
+		
 		$list = array();
 		if ($prepend_inherit) $list['inherit'] = __("Inherit", 'themerex');
 		$types = get_post_types();
