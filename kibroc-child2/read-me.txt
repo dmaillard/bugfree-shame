@@ -1,0 +1,82 @@
+Thank You for purchasing Flatron, A Super premium Classipress child theme.
+
+****************************************************
+DESCRIPTION:
+****************************************************
+
+Flatron is super premium Classipress child theme. It comes with a flat & modern design.
+Easy to customize via theme option to have a unique look & feel, with lot of features and options.
+
+**************************************************** 
+FEATURES:
+**************************************************** 
+
+// Extensive Theme Options
+Flatron has very easy and comprehensive set of theme options that will help you configure your site.
+
+//6 Color schemes
+It comes with 6 predefined skins and theme options layouts that you may use for different purposes.
+
+
+//Grid-List mode
+Yep, Flatron is packed with grid/list mode. the admin can set the default mode.
+
+//Advertising module
+Flatron is packed with enhanced ad modules that turns your site into a hits generator.
+
+//Fully compatible with Classipress 3.3.2+ and 3.3.3
+
+//Flatron is fully responsive with the latest version of Classipress.
+
+//Related ads
+Display a list of related ads in the ad page. the admin ca set the number of how many ads to display as well.
+
+//Advanced features
+It includes a bundle of essential features such as, featured ads on top, related ads, Social networks, Share ads..!
+
+**************************************************** 
+
+Required : This theme is a premium Classipress childtheme, You need your own Classipress Theme to make it work.
+
+Compatible: Classipress 3.3.3
+
+****************************************************
+INSTALLATION:
+****************************************************
+
+//Using WordPress dashboard:
+
+    -Go to appearance => themes
+    -Install new theme
+	-Select the Flatron zip and upload it
+    -Activate the theme.
+
+//Using FTP:
+
+    -Extract the Flatron zip file and just drop the contents in the wp-content/themes/
+    -Activate the theme in WordPress admin =>Appearance
+    -Your Flatron now is installed and ready for use.
+
+Note: After activating the theme, a sub menu would be created for the theme options.
+
+PS: Make sure the folder of the parent Classipress  is named Classipress ( so it appears like this: /themes/Classipress/ )
+Note: If the home page of your site is not displaying ads and displaying blog posts instead, go to wordpress dashboard => settings => reading => select static home page => select "ad listings" page => save setting.
+
+
+****************************************************
+Configuring Flatron (Menus and Widgets)
+
+****************************************************
+1- Custom Menus:
+
+To manage the primary menu (header) go to your wordpress dashboard=>Appearance=>Menu.
+
+In theme locations, you find 3 theme locations, primary, user nav and footer menu.
+
+The main menu is labeled as Primary menu (to change it, Create your own custom menu and select it in theme location).
+
+The footer menu is labeled as Footer menu (to change it, Create your own custom menu and select it in theme location).
+********************************************************************************************************
+For help and support, please feel free to contact us at contact@jobthemes.com
+
+Enjoy your premium theme!

@@ -1,0 +1,20 @@
+1.0.2 - 25/07/2014
+	-Fixed minor css bugs
+
+	
+
+1.0.1 - 24/07/2014
+	-Fixed grid/list modes for inner pages
+	-Fixed minor css bugs
+	-Enhanced responsiveness
+	-Fixed grid mode container
+	-Fixed cookies conflict with the map
+	-Fixed js conflict with older php version
+	Compatible with cp 3.3.3	
+	//See changelogs of Classipress 3.3.3
+
+
+1.0 - 18/03/2014
+	First release
+	Compatible with cp 3.3.2	
+	//See changelogs of Classipress 3.3.2

@@ -1,0 +1,69 @@
+
+/* main */
+h1.single, span.colour , .header_menu_res ul.menu li ul li a:hover { color:#FF5900;}
+div.bigright span { color:#FF5900; font-weight: bold;}
+div#mcwrap span { font-size: 16px; color:#FF5900; font-weight: bold;}
+a { color:#FF5900; text-decoration:underline;}
+
+/* header */
+.header_top { background:none repeat scroll 0 0 #313131; border-bottom:2px solid #515150; }
+.header_main_bg { background:url(../images/content_topbg.gif) repeat-x scroll center top transparent; background-color:#EFEFEF; clear:both; padding:25px 0; position:relative; }
+.header_top_res p a { color:#6dbd9d; text-decoration:none;}
+.header_main_res #logo h1 { color:#666666; font-size:38px; margin:0px; padding:0px; }
+.header_main_res #logo h1 a { color:#666666; text-decoration: none; margin:0px; padding:0px; }
+.header_main_res .description { color:#999999; font-family:Georgia,serif; font-size:14px; font-style:italic; }
+.header_menu { background:#FF5900; border-top:2px solid #68aaa1;}
+.cp_logo {height:80px; width:300px; }
+
+
+/* content */
+.content_res .priceblockbig p.price { margin:0; padding:0; float:right; font:bold 18px/1.2em Arial, Helvetica, sans-serif; color:#FF5900;}
+.content_res .priceblockbig p.location span { font-weight:bold; color:#FF5900;}
+.content_res .priceblocksmall p.price { margin:0; padding:0; float:right; font:bold 13px/1.2em Arial, Helvetica, sans-serif; color:#FF5900;}
+.content_res .stepsline div.l_ready { background:#FF5900;}
+.content_res .stepsline div.no_ready { border:1px solid #1d675c;}																							
+.content_res .stepsline div.ni_ready { background:#FF5900; border-top:1px solid #6ac3e9;}
+.content_left p.bigprice { color:#FF5900; float:right; font-size:18px; font-weight:bold; line-height:1.2em; margin:0; padding:8px 0 0; }
+.content_res .can_chg_bg:hover { background-color: #EAF2FA; }
+
+/* sidebar refine search */
+.content_right ul.refine li input#amount, .content_right ul.refine li input#distance {color:#FF5900; border:0; font-weight:bold;}
+
+/* footer */
+.footer_menu {}
+.footer_main_res div.column p a { color:#FF5900;}
+.footer_main_res div.column ul li a { color:#05b8fb; text-decoration:none;}
+.footer_main_res div.column { font:normal 14px/1.8em Arial, Helvetica, sans-serif; color:#222;}
+
+/* Payments styles */
+.order-gateway h1, .order-gateway h2 { color:#FF5900; }
+
+
+
+p.post-price {background:  #05b8fb; color: #fff;}
+
+.related-adso a , .category-menu ul li a:hover, .category-menu ul li.cat-active a {  color: #05b8fb;}
+ .footer-bots {background:  #05b8fb;}
+
+
+body a, body span.colour {color: #FF5900}
+
+
+.added-search a {background: #FF5900}
+.footer_main_res div.column h2  {border-color: #FF5900}
+.tabcontrol ul.tabnavig li a.selected , .btn-topsearch:hover {color: #FF5900}
+
+.btn_orange, .order-gateway input[type="submit"] , .shadowblockdir h2.styled-h , .container .header_menu , .btn-topsearch , .btn-default {background-color: #FF5900 ; border-color: #c84701 }
+.btn_orange:hover, .order-gateway input[type="submit"] :hover , .btn:focus, .btn:hover, .btn:active {background: #F25805 ; border-color: #c84701 }
+
+
+
+
+.content_right ul li a , .tabcontrol ul.tabnavig li a.selected, .btn-topsearch:hover , body a, body span.colour {color: #FF5900}
+
+
+
+
+ 
+ 
+.tabprice ul.tabnavig li a.selected , .shadowblockdir h2.dotted  {color: #FF5900}

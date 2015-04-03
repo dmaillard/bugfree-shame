@@ -1,0 +1,14 @@
+/*
+Theme Name:     KiBroc Child Theme
+Theme URI:      http://kibroc.com/
+Description:    Child theme for the KiBroc theme
+Author:         AdoraWeb
+Author URI:     http://adoraweb.lu/
+Template:       kibroc
+Version:        0.1.0
+*/
+
+@import url("../kibroc/style.css");
+
+.switch-html {display:none!important;}
+.switch-tmce {display:none!important;}
